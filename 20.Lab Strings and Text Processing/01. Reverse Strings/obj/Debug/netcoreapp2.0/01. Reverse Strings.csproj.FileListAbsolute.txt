@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.deps.json
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.runtimeconfig.json
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.runtimeconfig.dev.json
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.dll
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.pdb
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.AssemblyInfo.cs
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.dll
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.pdb

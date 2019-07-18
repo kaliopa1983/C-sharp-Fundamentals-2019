@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.0\02. Common Elements.deps.json
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.0\02. Common Elements.runtimeconfig.json
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.0\02. Common Elements.runtimeconfig.dev.json
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.0\02. Common Elements.dll
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.0\02. Common Elements.pdb
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.0\02. Common Elements.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.0\02. Common Elements.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.0\02. Common Elements.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.0\02. Common Elements.AssemblyInfo.cs
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.0\02. Common Elements.dll
+c:\users\dani\source\repos\10.Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.0\02. Common Elements.pdb

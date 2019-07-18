@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.0\10. Top Number.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.0\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.0\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.0\10. Top Number.AssemblyInfo.cs
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.0\10. Top Number.deps.json
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.0\10. Top Number.runtimeconfig.json
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.0\10. Top Number.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.0\10. Top Number.dll
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\bin\Debug\netcoreapp2.0\10. Top Number.pdb
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.0\10. Top Number.dll
+C:\Users\Dani\source\repos\12.Methods - Exercise\10. Top Number\obj\Debug\netcoreapp2.0\10. Top Number.pdb

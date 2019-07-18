@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.0\09. Greater of Two Values.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.0\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.0\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.0\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.0\09. Greater of Two Values.deps.json
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.0\09. Greater of Two Values.runtimeconfig.json
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.0\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.0\09. Greater of Two Values.dll
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.0\09. Greater of Two Values.pdb
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.0\09. Greater of Two Values.dll
+C:\Users\Dani\source\repos\11.Methods- Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.0\09. Greater of Two Values.pdb

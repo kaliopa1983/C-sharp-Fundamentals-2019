@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\obj\Debug\netcoreapp2.0\011.Eastern Cozonacs.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\obj\Debug\netcoreapp2.0\011.Eastern Cozonacs.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\obj\Debug\netcoreapp2.0\011.Eastern Cozonacs.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\bin\Debug\netcoreapp2.0\011.Eastern Cozonacs.deps.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\bin\Debug\netcoreapp2.0\011.Eastern Cozonacs.runtimeconfig.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\bin\Debug\netcoreapp2.0\011.Eastern Cozonacs.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\bin\Debug\netcoreapp2.0\011.Eastern Cozonacs.dll
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\bin\Debug\netcoreapp2.0\011.Eastern Cozonacs.pdb
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\obj\Debug\netcoreapp2.0\011.Eastern Cozonacs.dll
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\011.Eastern Cozonacs\obj\Debug\netcoreapp2.0\011.Eastern Cozonacs.pdb

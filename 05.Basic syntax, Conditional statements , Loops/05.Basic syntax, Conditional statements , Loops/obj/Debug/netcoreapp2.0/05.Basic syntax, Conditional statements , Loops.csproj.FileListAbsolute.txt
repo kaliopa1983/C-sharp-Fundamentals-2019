@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\bin\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.deps.json
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\bin\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.runtimeconfig.json
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\bin\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\bin\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.dll
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\bin\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.pdb
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\obj\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\obj\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\obj\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\obj\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.AssemblyInfo.cs
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\obj\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.dll
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\05.Basic syntax, Conditional statements , Loops\obj\Debug\netcoreapp2.0\05.Basic syntax, Conditional statements , Loops.pdb

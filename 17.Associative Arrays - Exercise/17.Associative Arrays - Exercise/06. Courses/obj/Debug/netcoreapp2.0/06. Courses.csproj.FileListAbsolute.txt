@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.0\06. Courses.deps.json
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.0\06. Courses.runtimeconfig.json
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.0\06. Courses.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.0\06. Courses.dll
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.0\06. Courses.pdb
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.0\06. Courses.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.0\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.0\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.0\06. Courses.AssemblyInfo.cs
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.0\06. Courses.dll
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.0\06. Courses.pdb

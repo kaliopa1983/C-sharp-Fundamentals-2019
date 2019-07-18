@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.deps.json
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.json
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.dev.json
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.dll
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.pdb
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfo.cs
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.dll
+c:\users\dani\source\repos\15.LabObjects and Classes\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.deps.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.pdb
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\03. Exact Sum of Real Numbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\bin\Debug\netcoreapp2.0\08. Town Info.deps.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\bin\Debug\netcoreapp2.0\08. Town Info.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\bin\Debug\netcoreapp2.0\08. Town Info.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\bin\Debug\netcoreapp2.0\08. Town Info.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\bin\Debug\netcoreapp2.0\08. Town Info.pdb
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\obj\Debug\netcoreapp2.0\08. Town Info.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\obj\Debug\netcoreapp2.0\08. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\obj\Debug\netcoreapp2.0\08. Town Info.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\obj\Debug\netcoreapp2.0\08. Town Info.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\obj\Debug\netcoreapp2.0\08. Town Info.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\08. Town Info\obj\Debug\netcoreapp2.0\08. Town Info.pdb

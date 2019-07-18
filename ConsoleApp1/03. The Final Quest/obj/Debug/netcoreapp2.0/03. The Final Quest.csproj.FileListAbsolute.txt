@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\bin\Debug\netcoreapp2.0\03. The Final Quest.deps.json
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\bin\Debug\netcoreapp2.0\03. The Final Quest.runtimeconfig.json
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\bin\Debug\netcoreapp2.0\03. The Final Quest.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\bin\Debug\netcoreapp2.0\03. The Final Quest.dll
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\bin\Debug\netcoreapp2.0\03. The Final Quest.pdb
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\obj\Debug\netcoreapp2.0\03. The Final Quest.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\obj\Debug\netcoreapp2.0\03. The Final Quest.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\obj\Debug\netcoreapp2.0\03. The Final Quest.AssemblyInfo.cs
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\obj\Debug\netcoreapp2.0\03. The Final Quest.dll
+C:\Users\Dani\source\repos\ConsoleApp1\03. The Final Quest\obj\Debug\netcoreapp2.0\03. The Final Quest.pdb

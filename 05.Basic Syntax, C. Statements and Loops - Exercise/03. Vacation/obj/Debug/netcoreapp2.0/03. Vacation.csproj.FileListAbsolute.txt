@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp2.0\03. Vacation.deps.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp2.0\03. Vacation.runtimeconfig.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp2.0\03. Vacation.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp2.0\03. Vacation.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp2.0\03. Vacation.pdb
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp2.0\03. Vacation.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp2.0\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp2.0\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp2.0\03. Vacation.AssemblyInfo.cs
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp2.0\03. Vacation.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp2.0\03. Vacation.pdb

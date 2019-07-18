@@ -1,0 +1,10 @@
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\bin\Debug\netcoreapp2.0\01. The Hunting Games.deps.json
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\bin\Debug\netcoreapp2.0\01. The Hunting Games.runtimeconfig.json
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\bin\Debug\netcoreapp2.0\01. The Hunting Games.runtimeconfig.dev.json
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\bin\Debug\netcoreapp2.0\01. The Hunting Games.dll
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\bin\Debug\netcoreapp2.0\01. The Hunting Games.pdb
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\obj\Debug\netcoreapp2.0\01. The Hunting Games.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\obj\Debug\netcoreapp2.0\01. The Hunting Games.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\obj\Debug\netcoreapp2.0\01. The Hunting Games.AssemblyInfo.cs
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\obj\Debug\netcoreapp2.0\01. The Hunting Games.dll
+c:\users\dani\source\repos\ConsoleApp1\01. The Hunting Games\obj\Debug\netcoreapp2.0\01. The Hunting Games.pdb

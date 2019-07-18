@@ -1,0 +1,10 @@
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.0\03. Zig-Zag Arrays.deps.json
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.0\03. Zig-Zag Arrays.runtimeconfig.json
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.0\03. Zig-Zag Arrays.dll
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.0\03. Zig-Zag Arrays.pdb
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.0\03. Zig-Zag Arrays.dll
+c:\users\dani\source\repos\10.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.0\03. Zig-Zag Arrays.pdb

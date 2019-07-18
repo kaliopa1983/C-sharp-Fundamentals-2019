@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\obj\Debug\netcoreapp2.0\01. Student information.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\obj\Debug\netcoreapp2.0\01. Student information.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\obj\Debug\netcoreapp2.0\01. Student information.AssemblyInfo.cs
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\bin\Debug\netcoreapp2.0\01. Student information.deps.json
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\bin\Debug\netcoreapp2.0\01. Student information.runtimeconfig.json
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\bin\Debug\netcoreapp2.0\01. Student information.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\bin\Debug\netcoreapp2.0\01. Student information.dll
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\bin\Debug\netcoreapp2.0\01. Student information.pdb
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\obj\Debug\netcoreapp2.0\01. Student information.dll
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\obj\Debug\netcoreapp2.0\01. Student information.pdb
+C:\Users\Dani\source\repos\05.Basic syntax, Conditional statements , Loops\01. Student information\obj\Debug\netcoreapp2.0\01. Student information.csprojResolveAssemblyReference.cache

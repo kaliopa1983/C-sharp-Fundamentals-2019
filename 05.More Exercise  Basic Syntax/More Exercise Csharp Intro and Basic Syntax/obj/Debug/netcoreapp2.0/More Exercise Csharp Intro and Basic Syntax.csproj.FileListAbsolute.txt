@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\bin\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.deps.json
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\bin\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.runtimeconfig.json
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\bin\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\bin\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.dll
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\bin\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.pdb
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\obj\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\obj\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\obj\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\obj\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.AssemblyInfo.cs
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\obj\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.dll
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\More Exercise Csharp Intro and Basic Syntax\obj\Debug\netcoreapp2.0\More Exercise Csharp Intro and Basic Syntax.pdb

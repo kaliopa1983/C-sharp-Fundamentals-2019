@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\bin\Debug\netcoreapp2.0\02.Number Array.deps.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\bin\Debug\netcoreapp2.0\02.Number Array.runtimeconfig.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\bin\Debug\netcoreapp2.0\02.Number Array.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\bin\Debug\netcoreapp2.0\02.Number Array.dll
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\bin\Debug\netcoreapp2.0\02.Number Array.pdb
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\obj\Debug\netcoreapp2.0\02.Number Array.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\obj\Debug\netcoreapp2.0\02.Number Array.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\obj\Debug\netcoreapp2.0\02.Number Array.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\obj\Debug\netcoreapp2.0\02.Number Array.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\obj\Debug\netcoreapp2.0\02.Number Array.dll
+C:\Users\Dani\source\repos\Mid Exam June 2019\02.Number Array\obj\Debug\netcoreapp2.0\02.Number Array.pdb

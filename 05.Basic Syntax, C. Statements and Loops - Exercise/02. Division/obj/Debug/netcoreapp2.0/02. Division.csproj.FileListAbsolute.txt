@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp2.0\02. Division.deps.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp2.0\02. Division.runtimeconfig.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp2.0\02. Division.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp2.0\02. Division.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp2.0\02. Division.pdb
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp2.0\02. Division.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp2.0\02. Division.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp2.0\02. Division.AssemblyInfo.cs
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp2.0\02. Division.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp2.0\02. Division.pdb
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp2.0\02. Division.csprojResolveAssemblyReference.cache

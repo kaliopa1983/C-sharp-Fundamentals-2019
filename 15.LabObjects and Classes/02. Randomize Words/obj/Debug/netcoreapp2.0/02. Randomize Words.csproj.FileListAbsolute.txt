@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.0\02. Randomize Words.deps.json
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.0\02. Randomize Words.runtimeconfig.json
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.0\02. Randomize Words.runtimeconfig.dev.json
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.0\02. Randomize Words.dll
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\bin\Debug\netcoreapp2.0\02. Randomize Words.pdb
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.0\02. Randomize Words.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.0\02. Randomize Words.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.0\02. Randomize Words.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.0\02. Randomize Words.AssemblyInfo.cs
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.0\02. Randomize Words.dll
+c:\users\dani\source\repos\15.LabObjects and Classes\02. Randomize Words\obj\Debug\netcoreapp2.0\02. Randomize Words.pdb

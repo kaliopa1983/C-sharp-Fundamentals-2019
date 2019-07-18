@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\bin\Debug\netcoreapp2.0\03.LastStop.deps.json
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\bin\Debug\netcoreapp2.0\03.LastStop.runtimeconfig.json
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\bin\Debug\netcoreapp2.0\03.LastStop.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\bin\Debug\netcoreapp2.0\03.LastStop.dll
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\bin\Debug\netcoreapp2.0\03.LastStop.pdb
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\obj\Debug\netcoreapp2.0\03.LastStop.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\obj\Debug\netcoreapp2.0\03.LastStop.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\obj\Debug\netcoreapp2.0\03.LastStop.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\obj\Debug\netcoreapp2.0\03.LastStop.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\obj\Debug\netcoreapp2.0\03.LastStop.dll
+C:\Users\Dani\source\repos\Demo Exam\03.LastStop\obj\Debug\netcoreapp2.0\03.LastStop.pdb

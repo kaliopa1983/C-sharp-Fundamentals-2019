@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.deps.json
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.runtimeconfig.json
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.dll
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.pdb
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.dll
+C:\Users\Dani\source\repos\12.Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.pdb

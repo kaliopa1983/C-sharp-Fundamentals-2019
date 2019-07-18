@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\bin\Debug\netcoreapp2.0\04. Refactoring Prime Checker.deps.json
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\bin\Debug\netcoreapp2.0\04. Refactoring Prime Checker.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\bin\Debug\netcoreapp2.0\04. Refactoring Prime Checker.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\bin\Debug\netcoreapp2.0\04. Refactoring Prime Checker.dll
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\bin\Debug\netcoreapp2.0\04. Refactoring Prime Checker.pdb
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\obj\Debug\netcoreapp2.0\04. Refactoring Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\obj\Debug\netcoreapp2.0\04. Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\obj\Debug\netcoreapp2.0\04. Refactoring Prime Checker.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\obj\Debug\netcoreapp2.0\04. Refactoring Prime Checker.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\obj\Debug\netcoreapp2.0\04. Refactoring Prime Checker.dll
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\04. Refactoring Prime Checker\obj\Debug\netcoreapp2.0\04. Refactoring Prime Checker.pdb

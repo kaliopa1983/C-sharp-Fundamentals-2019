@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp2.0\01. Data Types.deps.json
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp2.0\01. Data Types.runtimeconfig.json
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp2.0\01. Data Types.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp2.0\01. Data Types.dll
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp2.0\01. Data Types.pdb
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp2.0\01. Data Types.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp2.0\01. Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp2.0\01. Data Types.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp2.0\01. Data Types.AssemblyInfo.cs
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp2.0\01. Data Types.dll
+C:\Users\Dani\source\repos\12.Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp2.0\01. Data Types.pdb

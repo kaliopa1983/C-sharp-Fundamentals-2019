@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\bin\Debug\netcoreapp2.0\03. Easter Shoping.deps.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\bin\Debug\netcoreapp2.0\03. Easter Shoping.runtimeconfig.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\bin\Debug\netcoreapp2.0\03. Easter Shoping.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\bin\Debug\netcoreapp2.0\03. Easter Shoping.dll
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\bin\Debug\netcoreapp2.0\03. Easter Shoping.pdb
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\obj\Debug\netcoreapp2.0\03. Easter Shoping.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\obj\Debug\netcoreapp2.0\03. Easter Shoping.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\obj\Debug\netcoreapp2.0\03. Easter Shoping.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\obj\Debug\netcoreapp2.0\03. Easter Shoping.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\obj\Debug\netcoreapp2.0\03. Easter Shoping.dll
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\02. Easter Gifts\obj\Debug\netcoreapp2.0\03. Easter Shoping.pdb

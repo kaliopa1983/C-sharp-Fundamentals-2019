@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.deps.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.runtimeconfig.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.dll
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.pdb
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.dll
+C:\Users\Dani\source\repos\14.Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.pdb

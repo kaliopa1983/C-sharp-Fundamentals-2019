@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\bin\Debug\netcoreapp2.0\03.Contact List.deps.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\bin\Debug\netcoreapp2.0\03.Contact List.runtimeconfig.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\bin\Debug\netcoreapp2.0\03.Contact List.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\bin\Debug\netcoreapp2.0\03.Contact List.dll
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\bin\Debug\netcoreapp2.0\03.Contact List.pdb
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\obj\Debug\netcoreapp2.0\03.Contact List.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\obj\Debug\netcoreapp2.0\03.Contact List.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\obj\Debug\netcoreapp2.0\03.Contact List.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\obj\Debug\netcoreapp2.0\03.Contact List.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\obj\Debug\netcoreapp2.0\03.Contact List.dll
+C:\Users\Dani\source\repos\Mid Exam June 2019\03.Contact List\obj\Debug\netcoreapp2.0\03.Contact List.pdb

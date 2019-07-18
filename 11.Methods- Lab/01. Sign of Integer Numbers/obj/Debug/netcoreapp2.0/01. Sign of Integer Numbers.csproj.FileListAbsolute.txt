@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.deps.json
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.dll
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.pdb
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.dll
+C:\Users\Dani\source\repos\Methods- Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.pdb

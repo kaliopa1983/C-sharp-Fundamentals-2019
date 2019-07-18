@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\bin\Debug\netcoreapp2.0\01.Eastern cozonac.deps.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\bin\Debug\netcoreapp2.0\01.Eastern cozonac.runtimeconfig.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\bin\Debug\netcoreapp2.0\01.Eastern cozonac.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\bin\Debug\netcoreapp2.0\01.Eastern cozonac.dll
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\bin\Debug\netcoreapp2.0\01.Eastern cozonac.pdb
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\obj\Debug\netcoreapp2.0\01.Eastern cozonac.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\obj\Debug\netcoreapp2.0\01.Eastern cozonac.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\obj\Debug\netcoreapp2.0\01.Eastern cozonac.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\obj\Debug\netcoreapp2.0\01.Eastern cozonac.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\obj\Debug\netcoreapp2.0\01.Eastern cozonac.dll
+C:\Users\Dani\source\repos\Midlle Exam 16 april 2019\Midlle Exam 16 april 2019\obj\Debug\netcoreapp2.0\01.Eastern cozonac.pdb

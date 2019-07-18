@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\bin\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.deps.json
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\bin\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.runtimeconfig.json
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\bin\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.runtimeconfig.dev.json
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\bin\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.dll
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\bin\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.pdb
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\obj\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\obj\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\obj\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\obj\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.AssemblyInfo.cs
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\obj\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.dll
+c:\users\dani\source\repos\20.Lab Strings and Text Processing\20.Lab Strings and Text Processing\obj\Debug\netcoreapp2.0\20.Lab Strings and Text Processing.pdb

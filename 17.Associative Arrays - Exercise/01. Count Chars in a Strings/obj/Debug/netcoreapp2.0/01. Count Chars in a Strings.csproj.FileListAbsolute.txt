@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\bin\Debug\netcoreapp2.0\01. Count Chars in a Strings.deps.json
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\bin\Debug\netcoreapp2.0\01. Count Chars in a Strings.runtimeconfig.json
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\bin\Debug\netcoreapp2.0\01. Count Chars in a Strings.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\bin\Debug\netcoreapp2.0\01. Count Chars in a Strings.dll
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\bin\Debug\netcoreapp2.0\01. Count Chars in a Strings.pdb
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\obj\Debug\netcoreapp2.0\01. Count Chars in a Strings.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\obj\Debug\netcoreapp2.0\01. Count Chars in a Strings.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\obj\Debug\netcoreapp2.0\01. Count Chars in a Strings.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\obj\Debug\netcoreapp2.0\01. Count Chars in a Strings.AssemblyInfo.cs
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\obj\Debug\netcoreapp2.0\01. Count Chars in a Strings.dll
+C:\Users\Dani\source\repos\17.Associative Arrays - Exercise\01. Count Chars in a Strings\obj\Debug\netcoreapp2.0\01. Count Chars in a Strings.pdb

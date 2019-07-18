@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.deps.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.dll
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.pdb
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.dll
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\05. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\05. Print Part Of ASCII Table.pdb

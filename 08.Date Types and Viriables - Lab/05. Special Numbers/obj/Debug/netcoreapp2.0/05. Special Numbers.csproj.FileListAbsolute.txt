@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.deps.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.pdb
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.pdb

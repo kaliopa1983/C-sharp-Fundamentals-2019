@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.0\06. List Manipulation Basics.deps.json
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.0\06. List Manipulation Basics.runtimeconfig.json
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.0\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.0\06. List Manipulation Basics.dll
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.0\06. List Manipulation Basics.pdb
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.0\06. List Manipulation Basics.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.0\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.0\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.0\06. List Manipulation Basics.dll
+C:\Users\Dani\source\repos\13.Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.0\06. List Manipulation Basics.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.deps.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.runtimeconfig.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.pdb
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.AssemblyInfo.cs
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.pdb

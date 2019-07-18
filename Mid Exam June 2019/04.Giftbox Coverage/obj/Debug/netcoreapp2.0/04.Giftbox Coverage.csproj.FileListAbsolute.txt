@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\bin\Debug\netcoreapp2.0\04.Giftbox Coverage.deps.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\bin\Debug\netcoreapp2.0\04.Giftbox Coverage.runtimeconfig.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\bin\Debug\netcoreapp2.0\04.Giftbox Coverage.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\bin\Debug\netcoreapp2.0\04.Giftbox Coverage.dll
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\bin\Debug\netcoreapp2.0\04.Giftbox Coverage.pdb
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\obj\Debug\netcoreapp2.0\04.Giftbox Coverage.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\obj\Debug\netcoreapp2.0\04.Giftbox Coverage.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\obj\Debug\netcoreapp2.0\04.Giftbox Coverage.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\obj\Debug\netcoreapp2.0\04.Giftbox Coverage.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\obj\Debug\netcoreapp2.0\04.Giftbox Coverage.dll
+C:\Users\Dani\source\repos\Mid Exam June 2019\04.Giftbox Coverage\obj\Debug\netcoreapp2.0\04.Giftbox Coverage.pdb

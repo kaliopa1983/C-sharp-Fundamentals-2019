@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.deps.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.dll
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.pdb
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.dll
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.pdb

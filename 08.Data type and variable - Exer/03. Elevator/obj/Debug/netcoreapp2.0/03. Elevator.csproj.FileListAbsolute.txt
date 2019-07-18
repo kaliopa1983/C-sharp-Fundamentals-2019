@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\bin\Debug\netcoreapp2.0\03. Elevator.deps.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\bin\Debug\netcoreapp2.0\03. Elevator.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\bin\Debug\netcoreapp2.0\03. Elevator.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\bin\Debug\netcoreapp2.0\03. Elevator.dll
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\bin\Debug\netcoreapp2.0\03. Elevator.pdb
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\obj\Debug\netcoreapp2.0\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\obj\Debug\netcoreapp2.0\03. Elevator.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\obj\Debug\netcoreapp2.0\03. Elevator.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\obj\Debug\netcoreapp2.0\03. Elevator.dll
+C:\Users\Dani\source\repos\08.Data type and variable - Exer\03. Elevator\obj\Debug\netcoreapp2.0\03. Elevator.pdb

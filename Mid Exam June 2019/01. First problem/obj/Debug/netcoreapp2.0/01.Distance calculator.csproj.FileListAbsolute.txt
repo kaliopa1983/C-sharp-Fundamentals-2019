@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\bin\Debug\netcoreapp2.0\01.Distance calculator.deps.json
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\bin\Debug\netcoreapp2.0\01.Distance calculator.runtimeconfig.json
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\bin\Debug\netcoreapp2.0\01.Distance calculator.runtimeconfig.dev.json
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\bin\Debug\netcoreapp2.0\01.Distance calculator.dll
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\bin\Debug\netcoreapp2.0\01.Distance calculator.pdb
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\obj\Debug\netcoreapp2.0\01.Distance calculator.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\obj\Debug\netcoreapp2.0\01.Distance calculator.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\obj\Debug\netcoreapp2.0\01.Distance calculator.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\obj\Debug\netcoreapp2.0\01.Distance calculator.AssemblyInfo.cs
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\obj\Debug\netcoreapp2.0\01.Distance calculator.dll
+c:\users\dani\source\repos\Mid Exam June 2019\01. First problem\obj\Debug\netcoreapp2.0\01.Distance calculator.pdb

@@ -1,0 +1,10 @@
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.deps.json
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.runtimeconfig.json
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.runtimeconfig.dev.json
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.dll
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.pdb
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.AssemblyInfo.cs
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.dll
+c:\users\dani\source\repos\15.LabObjects and Classes\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.pdb

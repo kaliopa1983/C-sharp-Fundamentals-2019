@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\bin\Debug\netcoreapp2.0\0 1. Party Profit.deps.json
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\bin\Debug\netcoreapp2.0\0 1. Party Profit.runtimeconfig.json
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\bin\Debug\netcoreapp2.0\0 1. Party Profit.runtimeconfig.dev.json
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\bin\Debug\netcoreapp2.0\0 1. Party Profit.dll
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\bin\Debug\netcoreapp2.0\0 1. Party Profit.pdb
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\obj\Debug\netcoreapp2.0\0 1. Party Profit.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\obj\Debug\netcoreapp2.0\0 1. Party Profit.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\obj\Debug\netcoreapp2.0\0 1. Party Profit.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\obj\Debug\netcoreapp2.0\0 1. Party Profit.AssemblyInfo.cs
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\obj\Debug\netcoreapp2.0\0 1. Party Profit.dll
+c:\users\dani\source\repos\Demo Exam\0 1. Party Profit\obj\Debug\netcoreapp2.0\0 1. Party Profit.pdb

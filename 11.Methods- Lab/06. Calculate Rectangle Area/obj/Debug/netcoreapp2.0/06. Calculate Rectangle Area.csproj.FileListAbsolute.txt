@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.0\06. Calculate Rectangle Area.deps.json
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.0\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.0\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.0\06. Calculate Rectangle Area.dll
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.0\06. Calculate Rectangle Area.pdb
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.0\06. Calculate Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.0\06. Calculate Rectangle Area.dll
+C:\Users\Dani\source\repos\11.Methods- Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.0\06. Calculate Rectangle Area.pdb

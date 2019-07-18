@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Mid Exam 10 March 2019.deps.json
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Mid Exam 10 March 2019.runtimeconfig.json
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Mid Exam 10 March 2019.runtimeconfig.dev.json
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Mid Exam 10 March 2019.dll
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Mid Exam 10 March 2019.pdb
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Mid Exam 10 March 2019.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Mid Exam 10 March 2019.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Mid Exam 10 March 2019.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Mid Exam 10 March 2019.AssemblyInfo.cs
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Mid Exam 10 March 2019.dll
+c:\users\dani\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Mid Exam 10 March 2019.pdb

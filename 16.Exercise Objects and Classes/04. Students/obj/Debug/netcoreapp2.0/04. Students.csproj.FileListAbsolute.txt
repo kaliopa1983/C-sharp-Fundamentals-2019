@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\bin\Debug\netcoreapp2.0\04. Students.deps.json
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\bin\Debug\netcoreapp2.0\04. Students.runtimeconfig.json
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\bin\Debug\netcoreapp2.0\04. Students.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\bin\Debug\netcoreapp2.0\04. Students.dll
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\bin\Debug\netcoreapp2.0\04. Students.pdb
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\obj\Debug\netcoreapp2.0\04. Students.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\obj\Debug\netcoreapp2.0\04. Students.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\obj\Debug\netcoreapp2.0\04. Students.AssemblyInfo.cs
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\obj\Debug\netcoreapp2.0\04. Students.dll
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\04. Students\obj\Debug\netcoreapp2.0\04. Students.pdb

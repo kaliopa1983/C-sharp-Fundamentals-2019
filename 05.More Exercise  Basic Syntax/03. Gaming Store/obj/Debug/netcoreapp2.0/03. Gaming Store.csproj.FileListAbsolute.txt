@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\bin\Debug\netcoreapp2.0\03. Gaming Store.deps.json
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\bin\Debug\netcoreapp2.0\03. Gaming Store.runtimeconfig.json
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\bin\Debug\netcoreapp2.0\03. Gaming Store.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\bin\Debug\netcoreapp2.0\03. Gaming Store.dll
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\bin\Debug\netcoreapp2.0\03. Gaming Store.pdb
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\obj\Debug\netcoreapp2.0\03. Gaming Store.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\obj\Debug\netcoreapp2.0\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\obj\Debug\netcoreapp2.0\03. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\obj\Debug\netcoreapp2.0\03. Gaming Store.AssemblyInfo.cs
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\obj\Debug\netcoreapp2.0\03. Gaming Store.dll
+C:\Users\Dani\source\repos\More Exercise Csharp Intro and Basic Syntax\03. Gaming Store\obj\Debug\netcoreapp2.0\03. Gaming Store.pdb

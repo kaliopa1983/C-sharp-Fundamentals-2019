@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\bin\Debug\netcoreapp2.0\3. Floating Equality.deps.json
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\bin\Debug\netcoreapp2.0\3. Floating Equality.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\bin\Debug\netcoreapp2.0\3. Floating Equality.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\bin\Debug\netcoreapp2.0\3. Floating Equality.dll
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\bin\Debug\netcoreapp2.0\3. Floating Equality.pdb
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\obj\Debug\netcoreapp2.0\3. Floating Equality.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\obj\Debug\netcoreapp2.0\3. Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\obj\Debug\netcoreapp2.0\3. Floating Equality.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\obj\Debug\netcoreapp2.0\3. Floating Equality.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\obj\Debug\netcoreapp2.0\3. Floating Equality.dll
+C:\Users\Dani\source\repos\08.Data type and Variable -More Exer\3. Floating Equality\obj\Debug\netcoreapp2.0\3. Floating Equality.pdb

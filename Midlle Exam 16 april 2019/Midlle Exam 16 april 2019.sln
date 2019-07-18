@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011.Eastern Cozonacs", "011.Eastern Cozonacs\011.Eastern Cozonacs.csproj", "{7684D497-6A98-4A80-84A8-8DCA89F825F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Easter Shoping", "02. Easter Gifts\03. Easter Shoping.csproj", "{92E1458C-E418-43F5-89D2-F8FBF6B879CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7684D497-6A98-4A80-84A8-8DCA89F825F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7684D497-6A98-4A80-84A8-8DCA89F825F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7684D497-6A98-4A80-84A8-8DCA89F825F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7684D497-6A98-4A80-84A8-8DCA89F825F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E1458C-E418-43F5-89D2-F8FBF6B879CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E1458C-E418-43F5-89D2-F8FBF6B879CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E1458C-E418-43F5-89D2-F8FBF6B879CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E1458C-E418-43F5-89D2-F8FBF6B879CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD6B2C7-C164-4AE1-9FBC-D5B47BB0DD26}
+	EndGlobalSection
+EndGlobal

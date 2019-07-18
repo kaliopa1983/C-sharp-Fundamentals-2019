@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.deps.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.runtimeconfig.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.dll
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.pdb
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.AssemblyInfo.cs
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.dll
+C:\Users\Dani\source\repos\14.Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.pdb

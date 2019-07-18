@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.0\01. Advertisement Message.deps.json
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.0\01. Advertisement Message.runtimeconfig.json
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.0\01. Advertisement Message.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.0\01. Advertisement Message.dll
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\bin\Debug\netcoreapp2.0\01. Advertisement Message.pdb
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.0\01. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.0\01. Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.0\01. Advertisement Message.AssemblyInfo.cs
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.0\01. Advertisement Message.dll
+C:\Users\Dani\source\repos\16.Exercise Objects and Classes\01. Advertisement Message\obj\Debug\netcoreapp2.0\01. Advertisement Message.pdb

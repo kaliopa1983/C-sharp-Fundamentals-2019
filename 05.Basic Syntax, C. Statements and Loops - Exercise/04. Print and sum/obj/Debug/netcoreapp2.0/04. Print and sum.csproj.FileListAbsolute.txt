@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.deps.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.runtimeconfig.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.pdb
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.AssemblyInfo.cs
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.dll
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.pdb
+C:\Users\Dani\source\repos\6.Basic Syntax, C. Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.0\10. Lower or Upper.deps.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.0\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.0\10. Lower or Upper.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.0\10. Lower or Upper.pdb
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.0\10. Lower or Upper.dll
+C:\Users\Dani\source\repos\08.Date Types and Viriables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.0\10. Lower or Upper.pdb

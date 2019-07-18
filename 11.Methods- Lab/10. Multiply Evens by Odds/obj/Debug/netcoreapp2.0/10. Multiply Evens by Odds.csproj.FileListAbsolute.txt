@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\10. Multiply Evens by Odds.deps.json
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\10. Multiply Evens by Odds.dll
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\10. Multiply Evens by Odds.pdb
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\10. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\10. Multiply Evens by Odds.dll
+C:\Users\Dani\source\repos\11.Methods- Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\10. Multiply Evens by Odds.pdb

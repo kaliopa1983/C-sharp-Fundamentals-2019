@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.deps.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.runtimeconfig.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.dll
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.pdb
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.AssemblyInfo.cs
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.dll
+C:\Users\Dani\source\repos\14.Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.pdb
