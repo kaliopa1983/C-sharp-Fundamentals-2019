@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.0\01. Furniture.deps.json
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.0\01. Furniture.runtimeconfig.json
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.0\01. Furniture.runtimeconfig.dev.json
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.0\01. Furniture.dll
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\bin\Debug\netcoreapp2.0\01. Furniture.pdb
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.0\01. Furniture.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.0\01. Furniture.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.0\01. Furniture.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.0\01. Furniture.AssemblyInfo.cs
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.0\01. Furniture.dll
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\01. Furniture\obj\Debug\netcoreapp2.0\01. Furniture.pdb

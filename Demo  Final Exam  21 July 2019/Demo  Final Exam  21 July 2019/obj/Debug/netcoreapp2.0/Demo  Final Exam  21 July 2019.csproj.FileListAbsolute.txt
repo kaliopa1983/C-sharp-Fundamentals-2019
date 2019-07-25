@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\bin\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.deps.json
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\bin\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.runtimeconfig.json
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\bin\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\bin\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.dll
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\bin\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.pdb
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\obj\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\obj\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\obj\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\obj\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\obj\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.dll
+C:\Users\Dani\source\repos\Demo  Final Exam  21 July 2019\Demo  Final Exam  21 July 2019\obj\Debug\netcoreapp2.0\Demo  Final Exam  21 July 2019.pdb

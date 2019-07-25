@@ -1,0 +1,11 @@
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\bin\Debug\netcoreapp2.0\04. Star Enigma.deps.json
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\bin\Debug\netcoreapp2.0\04. Star Enigma.runtimeconfig.json
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\bin\Debug\netcoreapp2.0\04. Star Enigma.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\bin\Debug\netcoreapp2.0\04. Star Enigma.dll
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\bin\Debug\netcoreapp2.0\04. Star Enigma.pdb
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\obj\Debug\netcoreapp2.0\04. Star Enigma.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\obj\Debug\netcoreapp2.0\04. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\obj\Debug\netcoreapp2.0\04. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\obj\Debug\netcoreapp2.0\04. Star Enigma.AssemblyInfo.cs
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\obj\Debug\netcoreapp2.0\04. Star Enigma.dll
+C:\Users\Dani\source\repos\22.Exercise  Regular Expressions\04. Star Enigma\obj\Debug\netcoreapp2.0\04. Star Enigma.pdb

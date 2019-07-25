@@ -1,0 +1,11 @@
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\bin\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.deps.json
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\bin\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.runtimeconfig.json
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\bin\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.runtimeconfig.dev.json
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\bin\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.dll
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\bin\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.pdb
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\obj\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.csprojResolveAssemblyReference.cache
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\obj\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.csproj.CoreCompileInputs.cache
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\obj\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.AssemblyInfoInputs.cache
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\obj\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.AssemblyInfo.cs
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\obj\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.dll
+c:\users\dani\source\repos\22.Exercise  Regular Expressions\22.Exercise  Regular Expressions\obj\Debug\netcoreapp2.0\22.Exercise  Regular Expressions.pdb
